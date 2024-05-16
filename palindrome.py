@@ -1,3 +1,5 @@
-x=20
-for i in range(0,x):
-    print(i)
+x=9
+l1=[]
+for i in range(1,x+1):
+    if x%i==0:
+
